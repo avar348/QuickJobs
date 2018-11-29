@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204607740016",
+    "firebase_url": "https://quickjobs-f0742.firebaseio.com",
+    "project_id": "quickjobs-f0742",
+    "storage_bucket": "quickjobs-f0742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204607740016:android:1b52f4787627090b",
+        "android_client_info": {
+          "package_name": "alexvargas.quickjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204607740016-57jpc6ulp52kc3r6s76pd9tt540e8th4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPRSTVjlOFJtr0avMwWsxcWLJtiXwzOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

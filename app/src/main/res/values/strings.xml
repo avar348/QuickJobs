@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickJobs</string>
+    <string name="title_activity_login_activty">Login</string>
+    <string name="title_activity_info">Job Info</string>
+    <string name="title_activity_add">Add Job</string>
+    <string name="title_activity_lists">Job List</string>
+    <string name="title_activity_zip_code_list">Job List</string>
+    <string name="title_activity_term_use">Term of Use</string>
+    <string name="title_activity_piracy_policy">Piracy Policy</string>
+</resources>

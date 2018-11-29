@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@android:drawable/ic_lock_lock"
+        android:title="Logout"
+        android:id="@+id/action_logout"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="location"
+        android:id="@+id/location"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="always"/>
+    <item
+        android:title="List"
+        app:showAsAction="never"
+        android:id="@+id/action_list"
+        />
+    <item
+        android:title="Privacy Policy"
+        app:showAsAction="never"
+        android:id="@+id/piracy"
+        />
+    <item
+        android:title="Term of Use"
+        app:showAsAction="never"
+        android:id="@+id/terms"
+        />
+
+</menu>

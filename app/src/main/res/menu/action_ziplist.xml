@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ZipCodeListActivity">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@android:drawable/ic_lock_lock"
+        app:showAsAction="always"
+        android:title="LogOut" />
+    <item
+        android:title="List"
+        android:id="@+id/list"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="Privacy Policy"
+        app:showAsAction="never"
+        android:id="@+id/piracy"
+        />
+    <item
+        android:title="Term of Use"
+        app:showAsAction="never"
+        android:id="@+id/terms"
+        />
+
+</menu>
